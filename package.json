@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "main": "public/electron.js",
-  "homepage": "./",
+  "homepage": "https://dfinatte.github.io/real-estate-broker-app",
   "dependencies": {
     "@types/node": "^16.18.68",
     "@types/react": "^18.2.42",
