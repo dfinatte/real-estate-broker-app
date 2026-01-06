@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/real-estate-broker-app/static/css/main.453e7a5c.css",
+    "main.js": "/real-estate-broker-app/static/js/main.68847e2b.js",
+    "index.html": "/real-estate-broker-app/index.html",
+    "main.453e7a5c.css.map": "/real-estate-broker-app/static/css/main.453e7a5c.css.map",
+    "main.68847e2b.js.map": "/real-estate-broker-app/static/js/main.68847e2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.453e7a5c.css",
+    "static/js/main.68847e2b.js"
+  ]
+}
