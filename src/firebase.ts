@@ -9,7 +9,7 @@ const firebaseConfig = {
   projectId: "gestao-imobiliaria-quintoandar",
   storageBucket: "gestao-imobiliaria-quintoandar.appspot.com",
   messagingSenderId: "989610244324",
-  appId: "1:989610244324:web:abcdef123456"
+  appId: "1:989610244324:web:1234567890abcdef"
 };
 
 // Inicializar Firebase
