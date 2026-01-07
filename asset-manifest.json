@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/real-estate-broker-app/static/css/main.ae8af4fc.css",
-    "main.js": "/real-estate-broker-app/static/js/main.a0f32c3a.js",
+    "main.js": "/real-estate-broker-app/static/js/main.e0c85d5e.js",
     "index.html": "/real-estate-broker-app/index.html",
     "main.ae8af4fc.css.map": "/real-estate-broker-app/static/css/main.ae8af4fc.css.map",
-    "main.a0f32c3a.js.map": "/real-estate-broker-app/static/js/main.a0f32c3a.js.map"
+    "main.e0c85d5e.js.map": "/real-estate-broker-app/static/js/main.e0c85d5e.js.map"
   },
   "entrypoints": [
     "static/css/main.ae8af4fc.css",
-    "static/js/main.a0f32c3a.js"
+    "static/js/main.e0c85d5e.js"
   ]
 }
